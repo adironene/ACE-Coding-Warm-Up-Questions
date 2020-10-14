@@ -1,0 +1,24 @@
+Write a program to print 'Hello' on screen and then ask the user to input his or her name. After, print 'nice to meet you' and print the name after. 
+ 
+Java:
+basic set up (you can give your student this to get started or just have them make a Java file on repl):
+ 
+ class Greet {
+    public static void main(String[] args) {
+       
+    }
+}
+
+
+Python:
+basic set up: just have your student make a main.py in repl or terminal (if they are using a separate editor)
+
+
+C++:
+basic set up (you can give your student this to get started or just have them make a C++ file on repl):
+
+#include <iostream>
+
+int main() {
+  
+}
