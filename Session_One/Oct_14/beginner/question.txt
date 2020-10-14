@@ -1,4 +1,12 @@
-Write a program to print 'Hello' on screen and then ask the user to input his or her name. After, print 'nice to meet you' and print the name after. 
+Write a program to print 'Hello' on screen and then ask the user to input his or her name. After, print 'nice to meet you' and print the name after. After, ask the user to input his or her favorite pokemon, and then print that the user's favorite pokemon is the one he or she just typed.
+
+Example console:
+Hello! What is your name?
+(input) Phoebe
+Nice to meet you, Phoebe.
+What is your favorite pokemon
+(input) Snorlax
+Phoebe's favorite pokemon is Snorlax.
  
 Java:
 basic set up (you can give your student this to get started or just have them make a Java file on repl):
